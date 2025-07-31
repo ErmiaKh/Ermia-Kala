@@ -13,7 +13,7 @@
 #پیش‌نیازها:
 کتاب خانه های bootstraps و زبان های HTML,Css, JavaScriptو..
 
-#لایسنس:MIT License
+#لایسنس:Proprietary License
 
 #تماس یا مشارکت:
 از طریق لینک های داده شده در پروفایلم(شبکه اجتماعی مثل تلگرام:https://t.me/ErFa85).
